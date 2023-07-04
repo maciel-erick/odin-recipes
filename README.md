@@ -11,9 +11,7 @@ The main purpose of this project is to practice my HTML and Git skills. But I ho
 This website`s recipes are carefully sorted into three main groups:
 
  + Main courses
-
  + Desserts
-
  + Alcoholic drinks
 
 ## Structure
@@ -21,9 +19,7 @@ This website`s recipes are carefully sorted into three main groups:
 odin-recipes follows a standard HTML5 directory structure pattern. Here you will find:
 
  + Absolute and relative links
-
  + Embedded images
-
  + Accessibility features, such as alternative text
  
 ## Usage
