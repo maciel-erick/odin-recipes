@@ -1,0 +1,44 @@
+/*
+* {
+    border: 1px solid red;
+    }
+*/
+
+body {
+    background-color:#eee;
+    font-family: "Rancho", cursive, sans-serif;
+    font-size: 24px;
+}
+
+.front-page-card {
+    display: block;
+    color: #EF4F4F;
+    background-color: #FFCDA3;
+    box-shadow: 4px 4px #808080;
+    height: 600px;
+    width: 400px;
+    margin: 10px auto;
+    padding: 20px;
+    border: 2px solid #EF4F4F;
+    border-radius: 1%;
+}
+
+h1 {
+    display: block;
+    width: 200px;
+    text-align: center;
+    font-size: 60px;
+    text-shadow: 1px 1px #808080;
+    margin: 16px auto;
+}
+
+ul.recipes-list li {
+    color: #f27272;
+    text-shadow: 0.5px 0.5px #EF4F4F;
+    line-height: 1.5;
+    list-style: square;
+}
+
+a:link, a:visited {
+    color: inherit;
+}
